@@ -10,7 +10,7 @@
 00-0c-29-33-47-6f 00-11-22-33-44-55 2 Forwarded on port 3
 
 
- Updated FDB:
+Updated FDB:
 00-00-00-11-0b-0d 1
 00-13-46-c6-a5-35 2
 00-13-8f-cd-44-58 3
